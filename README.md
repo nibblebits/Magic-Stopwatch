@@ -1,2 +1,6 @@
 # Magic-Stopwatch
-A simple stop watch made with electron framework for educational purposes test
+A simple stop watch made with electron framework for educational purposes
+
+# Build instructions
+Run "npm run make"
+
